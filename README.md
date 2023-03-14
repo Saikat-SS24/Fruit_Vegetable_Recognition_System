@@ -51,11 +51,11 @@ and test it.
 
 ## Screenshots
 
-![Img: 1](https://github.com/Saikat-SS24/Disease_Detection_In_Rice_Leaves/blob/main/img1.png)
+![Img: 1](https://github.com/Saikat-SS24/Fruit_Vegetable_Recognition_System/blob/main/Results/img1.png)
 
-![Img: 2](https://github.com/Saikat-SS24/Disease_Detection_In_Rice_Leaves/blob/main/img2.png)
+![Img: 2](https://github.com/Saikat-SS24/Fruit_Vegetable_Recognition_System/blob/main/Results/img2.png)
 
-![Img: 3](https://github.com/Saikat-SS24/Disease_Detection_In_Rice_Leaves/blob/main/img3.png)
+
 
 
 
